@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Xuxa"},
+                  "SongTitle": {"S": "Xuxerife"},
+                  "AlbumTitle": {"S": "Xou da Xuxa3"},
+                  "SongYear": {"S": "1988"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Xuxa"},
+                  "SongTitle": {"S": "Xuxerife"},
+                  "AlbumTitle": {"S": "Xou da Xuxa3"},
+                  "SongYear": {"S": "1988"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Xuxa"},
+                  "SongTitle": {"S": "Xuxerife"},
+                  "AlbumTitle": {"S": "Xou da Xuxa3"},
+                  "SongYear": {"S": "1988"}
+                }
+            }
+        }
+      ]
+}
